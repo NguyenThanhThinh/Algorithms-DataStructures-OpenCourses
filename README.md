@@ -1,4 +1,4 @@
-# DataStructures
+# Data Structures
 
 **The data structures course introduces the basics of data structures in programming: linear data structures, trees, graphs, hash-tables, sets and many others**
 
