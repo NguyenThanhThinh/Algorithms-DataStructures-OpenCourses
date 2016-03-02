@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.PlayWithTrees", "01.PlayWithTrees\01.PlayWithTrees.csproj", "{CE92FBB4-90AC-4AEE-89EB-28ECDB17D26E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.TraverseDirectories", "ConsoleApplication1\02.TraverseDirectories.csproj", "{2F3C8DCF-5F8A-4D6F-8E77-253914B4380F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE92FBB4-90AC-4AEE-89EB-28ECDB17D26E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE92FBB4-90AC-4AEE-89EB-28ECDB17D26E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE92FBB4-90AC-4AEE-89EB-28ECDB17D26E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE92FBB4-90AC-4AEE-89EB-28ECDB17D26E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F3C8DCF-5F8A-4D6F-8E77-253914B4380F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F3C8DCF-5F8A-4D6F-8E77-253914B4380F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F3C8DCF-5F8A-4D6F-8E77-253914B4380F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F3C8DCF-5F8A-4D6F-8E77-253914B4380F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
