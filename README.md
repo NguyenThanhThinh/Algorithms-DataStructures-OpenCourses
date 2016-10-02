@@ -1,4 +1,4 @@
-# Algorithms & Data Structures Open Course
+# Algorithms & Data Structures Open Courses
 **The course Algorithms introduces the basic concepts in algorithms design and the classical algorithms in programming. The course covers recursion and recursive algorithms, backtracking, combinatorics, sorting and searching algorithms, dynamic programming, graphs and graph algorithms, distributed parallel processing and map-reduce with Apache Hadoop.**
 
 **The Data Structures course introduces the basics of data structures in programming: linear data structures, trees, graphs, hash-tables, sets and many others.**
