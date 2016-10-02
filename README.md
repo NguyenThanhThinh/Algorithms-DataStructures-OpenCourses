@@ -3,7 +3,8 @@
 
 **The Data Structures course introduces the basics of data structures in programming: linear data structures, trees, graphs, hash-tables, sets and many others.**
 
-Contains:
+**https://softuni.bg/trainings/1331/algorithms-april-2016**
+**https://softuni.bg/trainings/1308/data-structures-february-2016**
 
 # Algorithms
 
